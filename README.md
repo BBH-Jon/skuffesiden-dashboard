@@ -4,6 +4,7 @@
 
 #### **Overview**
 This project is a **Bolig Dashboard** designed to visualize and analyze property data from multiple databases. It allows users to explore property information interactively, including features like filtering, mapping, and detailed data views.
+See it at https://skuffesiden-dashboard.streamlit.app/
 
 #### **Key Features**
 1. **Interactive Filters**:
